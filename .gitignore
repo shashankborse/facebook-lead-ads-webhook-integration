@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# AWS credentials and config files
+.aws/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
